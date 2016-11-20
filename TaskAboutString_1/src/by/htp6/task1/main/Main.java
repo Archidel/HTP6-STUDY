@@ -31,5 +31,6 @@ public class Main {
 			alg.algorithm(word, array);
 			
 		}
+		
 	}
 }
