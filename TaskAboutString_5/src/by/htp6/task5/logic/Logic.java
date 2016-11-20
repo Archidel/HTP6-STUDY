@@ -62,40 +62,6 @@ public class Logic {
 			}
 		}
 		
-		
-		
-		
-		
-		
-		
-		
-		/*		boolean varif = false;
-		for(int i = 0; i < array.length; i++){
-			if(Character.isLetterOrDigit(array[i])){
-				System.out.println("isLetterOrDigit = "  + true);
-			}else{
-				System.out.println("isLetterOrDigit = "  + false);
-			}
-			
-			if(Character.isDigit(array[i])){
-				System.out.println("isDigit = "  + true);
-			}else{
-				System.out.println("isDigit = "  + false);
-			}
-			
-			System.out.println(Character.getNumericValue(array[i]));
-			
-			if(Character.isDefined(array[i])){
-				System.out.println("isDefined = "  + true);
-			}else{
-				System.out.println("isDefined = "  + false);
-			}
-			
-		//	System.out.println(Character.isIdentifierIgnorable(str));
-		}*/
-		
-		
-		
 		return result;
 	}
 }
