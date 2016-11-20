@@ -15,18 +15,12 @@ public class FindAccountName {
 		
 		Pattern pattern = Pattern.compile(RegularConstant.LOGIN_REG);
 		Matcher matcher = pattern.matcher(LongLine);
-		
-		System.out.println("------------------TEST----START----------------");
-		
+
 		while(matcher.find()){
 			System.out.println(matcher.group(0));
 			list.add(matcher.group(1));
 		}
-		
-		System.out.println("------------------TEST----END------------------");
-		
-		calculateAccountName(list);
-		
+		calculateAccountName(list);		
 	}
 	
 	private void calculateAccountName(ArrayList<String> list){
