@@ -2,6 +2,7 @@ package by.htp6.future.thread;
 
 public class firstThread implements Runnable{
 	private int x;
+	
 	private double result;
 	
 	public firstThread(int x) {
