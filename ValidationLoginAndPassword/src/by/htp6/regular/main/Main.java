@@ -6,6 +6,7 @@ import by.htp6.regular.validation.LoginAndPassword;
 public class Main {
 
 	public static void main(String[] args) {
+		
 		LoginAndPassword lap = new LoginAndPassword();
 		boolean result = false;
 		
