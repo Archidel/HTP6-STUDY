@@ -1,4 +1,4 @@
-package by.htp6.task1.io;
+package by.htp6.task4.io;
 
 public class Print {
 	

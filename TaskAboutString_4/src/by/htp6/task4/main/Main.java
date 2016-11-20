@@ -1,4 +1,4 @@
-package by.htp6.task1.main;
+package by.htp6.task4.main;
 
 
 public class Main {
