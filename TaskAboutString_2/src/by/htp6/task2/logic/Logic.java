@@ -25,9 +25,6 @@ public class Logic {
 		
 		sum(sNumChar, fNumChar);
 		
-		
-		
-		
 	}
 
 	private void sum(char[] sNumChar, char[] fNumChar) {
