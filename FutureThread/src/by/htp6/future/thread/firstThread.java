@@ -22,12 +22,5 @@ public class firstThread implements Runnable{
 	private void setResult(double result) {
 		this.result = result;
 	}
-
-
-
-
-
-
-	
 	
 }
