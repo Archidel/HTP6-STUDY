@@ -12,9 +12,9 @@ public class Logic {
 	private boolean generaVerif(String line){
 		boolean result = false;
 		if(verificationIndif(line) && (verificationChar(line.toCharArray()))){
-			result = false;
-		}else{
 			result = true;
+		}else{
+			result = false;
 		}
 		
 		return result;
