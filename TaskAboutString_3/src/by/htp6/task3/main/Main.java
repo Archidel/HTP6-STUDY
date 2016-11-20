@@ -1,6 +1,6 @@
 package by.htp6.task3.main;
 
-import by.htp6.task1.io.Print;
+import by.htp6.task3.io.Print;
 
 public class Main {
 	
